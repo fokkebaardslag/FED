@@ -1,0 +1,16 @@
+/* *************************
+ * GENERAL STUFF
+ ***************************/
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+label {
+	display: block;
+}
+
+label.cbox {
+	display: inline-block;
+}
